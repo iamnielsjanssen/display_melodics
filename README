@@ -19,3 +19,6 @@ Press 'q' to quit.
 When you have seen all ICs, the program writes two text files: 'to_remove.txt' and 'to_keep.txt' to the current folder.
 
 Questions and comments? Please write me at njanssen@ull.es
+
+
+If problems with ImageTk, install the following libraries: sudo apt-get install tk8.5-dev tcl8.5-dev
