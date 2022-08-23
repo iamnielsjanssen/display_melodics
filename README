@@ -21,4 +21,8 @@ When you have seen all ICs, the program writes two text files: 'to_remove.txt' a
 Questions and comments? Please write me at njanssen@ull.es
 
 
-If problems with ImageTk, install the following libraries: sudo apt-get install tk8.5-dev tcl8.5-dev python-imaging-tk
+UPDATE 2022: To get this work on Ubuntu 22.04 with python3
+sudo apt-get install python3-tk
+sudo apt-get install python3-pil python3-pil.imagetk
+
+
